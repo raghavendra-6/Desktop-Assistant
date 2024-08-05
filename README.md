@@ -11,6 +11,7 @@ This project is a simple desktop assistant application that utilizes speech reco
 Voice command recognition
 Text-to-speech responses
 Basic functionality such as greeting, telling the time, and responding to specific commands
+
 **REQUIRMENTS**
 
 To run this desktop assistant, you'll need to have Python 3.6 or later installed on your machine. You'll also need to install the following Python packages:

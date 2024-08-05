@@ -1,4 +1,7 @@
 Desktop Assistant
+
+
+
 Overview
 This project is a simple desktop assistant application that utilizes speech recognition and text-to-speech technologies to perform various tasks based on voice commands. It uses the speech_recognition library for capturing and interpreting voice commands and the pyttsx3 library for providing vocal responses.
 
